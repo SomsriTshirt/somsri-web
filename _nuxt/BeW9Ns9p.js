@@ -1,1 +1,0 @@
-import{_ as r,f as s,k as t,S as n}from"./DvJXUPPn.js";const o={};function a(e,c){return t(),s("tr",null,[n(e.$slots,"default")])}const l=Object.assign(r(o,[["render",a]]),{__name:"ProseTr"});export{l as default};

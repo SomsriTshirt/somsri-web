@@ -1,0 +1,1 @@
+import{_ as s,f as o,k as r,S as n}from"./C91-lXdx.js";const t={};function a(e,c){return r(),o("ol",null,[n(e.$slots,"default")])}const _=Object.assign(s(t,[["render",a]]),{__name:"ProseOl"});export{_ as default};
