@@ -1,1 +1,0 @@
-import{P as o,i as n,w as s,Q as f,B as p}from"./CGSic5um.js";const u={__name:"ProseA",props:{href:{type:String,default:""},target:{type:String,default:void 0,required:!1}},setup(e){const t=e;return(r,_)=>{const a=p;return n(),o(a,{href:t.href,target:t.target},{default:s(()=>[f(r.$slots,"default")]),_:3},8,["href","target"])}}};export{u as default};
