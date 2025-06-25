@@ -1,1 +1,0 @@
-import{_ as o,f as s,k as r,S as n}from"./C91-lXdx.js";const t={};function c(e,a){return r(),s("code",null,[n(e.$slots,"default")])}const l=Object.assign(o(t,[["render",c]]),{__name:"ProseCode"});export{l as default};
