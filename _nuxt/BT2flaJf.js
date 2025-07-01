@@ -1,0 +1,1 @@
+import{_ as s,d as r,i as n,Q as o}from"./PAomO4tq.js";const t={};function a(e,c){return n(),r("h1",null,[o(e.$slots,"default")])}const l=Object.assign(s(t,[["render",a]]),{__name:"ProseH1"});export{l as default};
